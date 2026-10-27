@@ -14,16 +14,6 @@
 - 🔌 **Tool Integrations** — Connect supported external tools and services where available.
 - ⚙️ **Desktop Experience** — Access Claude through a dedicated computer application.
 
-## 📥 Download
-
-Use the download button above to visit the provided file page.
-
-For the official application, visit Anthropic's website:
-
-https://claude.com/download
-
-**Important:** The linked file has not been independently verified. Its contents, authenticity, and safety are unknown.
-
 ## 💻 Compatibility
 
 - **Application:** Claude Desktop
